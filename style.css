@@ -1,0 +1,96 @@
+body {
+  background-color: rgb(92, 42, 42);
+  font-family: sans-serif;
+}
+
+#loginarea {
+  background-color: rgb(215, 208, 208);
+  border-radius: 12px;
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) }
+
+
+#loginarea, h1 {
+  padding-top: 5px;
+  text-align: center;
+  color: rgb(92, 42, 42);
+}
+
+#avatar {
+  border-radius: 50%;
+  width: 120px;
+}
+
+#divuser {
+  margin: auto;
+  position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%) }
+
+#username {
+  padding-top: 10px;
+  border-radius: 8px;
+  text-align: center;
+  width: 400px;
+  height: 40px;
+  background-color: rgb(231, 222, 222);
+}
+
+#divpass {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) }
+
+#password {
+  padding-top: 10px;
+  width: 400px;
+  border-radius: 8px;
+  text-align: center;
+  height: 40px;
+  background-color: rgb(231, 222, 222);
+ 
+}
+
+#submit {
+  padding-top: 12px;
+  width: 200px;
+  border-radius: 8px;
+  text-align: center;
+  height: 50px;
+  background-color: #D7D0D0;
+  color: rgb(92, 42, 42);
+  font-size: large;
+  font-weight: bold;
+  border-color: rgb(183, 182, 182);
+}
+
+#submitbutton {
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+}
+
+#signup {
+  padding-top: 12px;
+  width: 200px;
+  border-radius: 8px;
+  text-align: center;
+  height: 50px;
+  background-color: #D7D0D0;
+  color: rgb(92, 42, 42);
+  font-size: large;
+  font-weight: bold;
+  border-color: rgb(183, 182, 182);
+}
